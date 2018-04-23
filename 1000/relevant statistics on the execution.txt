@@ -1,0 +1,2 @@
+execution time            memory consumption
+0.5399s                   36356 kb

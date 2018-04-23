@@ -1,0 +1,2 @@
+SourceNode#                  Stopping Condition
+810             "pop == 47182047  and  elevation >= 8.0  "

@@ -1,0 +1,2 @@
+Node#               Stopping Condition
+1          "pop == 20425427   and  elevation < = 1074.0 "
